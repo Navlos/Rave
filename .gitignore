@@ -3,3 +3,8 @@ db.sqlite3
 
 .env
 db.sqlite
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
